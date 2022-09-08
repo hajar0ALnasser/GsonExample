@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">odoo pay</string>
+    <string name="uad">UAD:</string>
+    <string name="nzd">NZD:</string>
+    <string name="usd">USD:</string>
+    <string name="gbp">GBP:</string>
+    <string name="update_text">update text</string>
+</resources>
